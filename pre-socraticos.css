@@ -3,7 +3,7 @@ padding: 0;
 background-color: blanchedalmond;
 margin: 0;
 }
- ul .nav-list {
+ ul {
   height: 40px;
 margin-top: 0;
 padding: 0;
@@ -12,7 +12,7 @@ padding: 0;
     height: 250px;
     width:200px;
   }
-.navbar {
+.navbar  ul {
     background-color: #333;
     height: 40px;
     
