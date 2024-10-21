@@ -8,10 +8,60 @@
     margin-top: 0;
     padding: 0;
       }
+     
+
       img{
-        height: 250px;
-        width:200px;
-      }
+        height: 300px;
+        width:270px;
+        border-radius: 70px;
+        } 
+        .Tales {
+          height: 500px;
+          text-align: justify;
+          font-family: "Agdasima", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+        
+
+}
+.anaximandro{
+  height: 500px;
+  text-align: justify;
+  font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.Anaxímenes{
+  height: 500px;
+  text-align: justify;
+  font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+.Heráclitos{
+  height: 500px;
+  text-align: justify;font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+.parmenides{
+  height: 500px;
+  text-align: justify;font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+.pitagoras { height: 500px;
+  text-align: justify;font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
     .navbar  ul {
         background-color: #333;
         height: 40px;
