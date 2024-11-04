@@ -2,6 +2,8 @@ body{
   padding: 0;
   background-color: blanchedalmond;
   margin: 0;
+  padding-left: 30px;
+  padding-right: 30px; 
   }
    ul {
     height: 40px;
@@ -22,7 +24,7 @@ body{
       font-weight: 400;
       font-style: normal; 
       
-
+      /* padding-: 30px;  */
       
 
 }
@@ -42,7 +44,7 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
-
+padding: 30px; 
 
 }
 .Heráclito{
@@ -51,6 +53,7 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
+padding: 30px; 
 }
 .parmenides{
 height: 500px;
@@ -58,6 +61,7 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
+padding: 30px; 
 
 }
 .pitagoras { height: 500px;
@@ -65,6 +69,7 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
+padding: 30px; 
 }
 .Empédocles{
 height: 500px;
@@ -72,6 +77,7 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
+padding: 30px; ;
 }
 .Demócrito{ 
 height: 500px;
@@ -79,13 +85,15 @@ text-align: justify;
 font-family: "Antic", sans-serif;
 font-weight: 400;
 font-style: normal;
-
+padding: 30px; ;
 }
   .navbar  ul {
       background-color: #333;
       height: 40px;
-      padding-left: 15px;
+      padding-left: 0px;
       padding-top: 14px;
+      margin-left: -30px;
+      margin-right: -30px;
   
     }
     .nav-list {
@@ -121,6 +129,7 @@ font-style: normal;
       font-family: "Antic", sans-serif;
       font-weight: 400;
       font-style: normal;
+      padding: 30px; ;
           }
           .presocraticos2{
             display: flex;
@@ -128,12 +137,14 @@ font-style: normal;
             font-family: "Antic", sans-serif;
             font-weight: 400;
             font-style: normal;
+            padding: 30px; ;
           }
           .presocraticos2 {
             text-align: justify;
             font-family: "Antic", sans-serif;
             font-weight: 400;
             font-style: normal;
+            padding: 30px; ;
 }
     .navbar  ul {
         background-color: #333;
@@ -192,6 +203,7 @@ font-style: normal;
         font-family: "Antic", sans-serif;
         font-weight: 400;
         font-style: normal;
+        padding: 30px; ;
       }
  .socrates{ 
   height: 500px;
@@ -199,7 +211,9 @@ text-align: justify;
   
  font-family: "Antic", sans-serif;
       font-weight: 400;
-                                font-style: normal;}
+                                font-style: normal;
+                                padding: 30px; ;
+                              }
                                   
    .platao{
     height: 500px;
@@ -207,20 +221,24 @@ text-align: justify;
     
       font-family: "Antic", sans-serif;
       font-weight: 400;
- font-style: normal;}                                       
+ font-style: normal;
+ padding: 30px; ;
+}                                       
   .Xenofonte{
     height: 500px;
      text-align: justify;
   font-family: "Antic", sans-serif;
  font-weight: 400;
-   font-style: normal;}                                          
+   font-style: normal;
+   padding: 30px; ;
+  }                                          
    .Aristóteles{
     height: 500px;
     text-align: justify;
             font-family: "Antic", sans-serif;
      font-weight: 400;
      font-style: normal;
-    
+     padding: 30px; ;
     }   
     .presocraticos { 
       color: blue;
@@ -230,12 +248,14 @@ text-align: justify;
   font-family: "Antic", sans-serif;
  font-weight: 400;
    font-style: normal;
+   padding: 30px; ;
     }                             
     .finalmente{
       text-align: justify;
   font-family: "Antic", sans-serif;
  font-weight: 400;
    font-style: normal;
+   padding: 30px; ;
     }   
     input {
       margin-bottom: 10px;
@@ -258,5 +278,6 @@ display: flex;
     border-radius: 10px;
 
   }
+
   
 
