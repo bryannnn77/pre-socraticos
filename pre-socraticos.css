@@ -236,4 +236,27 @@ text-align: justify;
   font-family: "Antic", sans-serif;
  font-weight: 400;
    font-style: normal;
-    }                  
+    }   
+    input {
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 100px;
+  }
+  .Formulário{
+    border-radius: 10px;
+display: flex;
+ justify-content: center;
+  }
+  
+  button{
+    color: brown;
+  }
+  
+
+  
+  textarea{
+    border-radius: 10px;
+
+  }
+  
+
