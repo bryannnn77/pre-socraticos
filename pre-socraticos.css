@@ -111,7 +111,7 @@ padding: 30px; ;
     }
     .nav-list li a:hover {
       color: orange
-        /* Altere esta cor para a cor desejada ao passar o mouse */
+    
       ;
       transition: 0.5s all;
       position: relative;
@@ -168,7 +168,7 @@ padding: 30px; ;
       }
       .nav-list li a:hover {
         color: orange
-          /* Altere esta cor para a cor desejada ao passar o mouse */
+     
         ;
         transition: 0.5s all;
         position: relative;
@@ -298,4 +298,22 @@ color: hsl(44, 100%, 63%);
 }
 
   
+.carrossel {
+  width: 80%;              
+  max-width: 1000px;        
+  margin: auto;
+  overflow: hidden;
+  border: 5px solid #000; 
+  border-radius: 0;       
+}
 
+.slides {
+  display: flex;
+  transition: transform 1s ease-in-out;
+}
+
+.slides img {
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
