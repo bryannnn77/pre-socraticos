@@ -303,8 +303,8 @@ color: hsl(44, 100%, 63%);
   max-width: 1000px;        
   margin: auto;
   overflow: hidden;
-  border: 5px solid #000; 
-  border-radius: 0;       
+  border: 5px solid #000000b0; 
+  border-radius: 10px;       
 }
 
 .slides {
